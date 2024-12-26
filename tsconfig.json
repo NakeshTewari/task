@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+      "outDir": "./dist", //specifies directory where compiled js files will be output
+      "rootDir": "./src", //root directtory of typescript files
+      "module": "commonjs", //module system used in output js
+      "target": "es6", //js version
+      "strict": true, //strict type checking  in typescript
+      "esModuleInterop": true// for smooth integration
+    }
+  }
+  
